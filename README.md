@@ -20,3 +20,5 @@ It all begins with a **Pattern-Unit**. Pattern-Units are images depicting basic 
 
 Next, by generating a bunch of these units with different sizes, we can combine them into a larger image called a **Pattern**. By combining all the unique Pattern-Units in different ways, it is easy to generate large volumes of image data that is all unique and easily classifiable. Here is an example of many Patterns that were generated using different sizes of the square pattern-unit:
 ![Square Pattern-Unit](SampleImages/squares.png)
+
+All you need is to tell the program what size you want your Pattern-Units and your Patterns (_and maybe a few other configurable things_) and you can get a very large image data set with all unique images!
