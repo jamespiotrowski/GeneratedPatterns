@@ -15,7 +15,7 @@ In this repository you will find:
 
 # Quick Summary of Method
 It all begins with a **Pattern-Unit**. Pattern-Units are images depicting basic shapes and symbols that can be plotted via a programming module. The module takes at least one configurable parameter called a **scale** that controls the size of the plotted shape. Below is a sample image of a Pattern-Unit depicting a square:
-![Square Pattern-Unit](SampleImages/square_unit.png)
+<img src="SampleImages/square_unit.png" width=100 height=100>
 
 Next, by generating a bunch of these units with different sizes, we can combine them into a larger image called a **Pattern**. By combining all the unique Pattern-Units in different ways, it is easy to generate large volumes of image data that is all unique and easily classifiable. Here is an example of many Patterns that were generated using different sizes of the square pattern-unit:
 ![Square Pattern-Unit](SampleImages/squares.png)
